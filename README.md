@@ -1,7 +1,7 @@
-SonataUserBundle
-================
+SonataUserBundleFork
+====================
 
-[![Build Status](https://secure.travis-ci.org/sonata-project/SonataUserBundle.png?branch=master)](http://travis-ci.org/sonata-project/SonataUserBundle)
+Fork of sonata-project/user-bundle with old login form (compatibility fork for Symfony 2.5 + Sonata 2.3)
 
 Integrate the FOS/UserBundle in the Sonata Project
 --------------------------------------------------
